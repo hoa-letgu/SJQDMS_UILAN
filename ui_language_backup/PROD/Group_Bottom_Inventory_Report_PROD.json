@@ -1,0 +1,191 @@
+{
+  "ui_tittle": "Group_Bottom_Inventory_Report",
+  "database": "PROD",
+  "exported_at": "2026-01-12T06:14:06.333Z",
+  "data": {
+    "Group_Bottom_Inventory_Report|Group_Bottom_Inventory_Report": {
+      "ui_code": "Group_Bottom_Inventory_Report",
+      "ui_id": "Group_Bottom_Inventory_Report",
+      "ui_tittle": "Group_Bottom_Inventory_Report",
+      "cn": "组别面底库存报表",
+      "en": "Upper & Sole Inventory Report by Group",
+      "yn": "Báo cáo tồn kho mặt–đế theo nhóm"
+    },
+    "dataGridView1|工作中心": {
+      "ui_code": "dataGridView1",
+      "ui_id": "工作中心",
+      "ui_tittle": "Group_Bottom_Inventory_Report",
+      "cn": "工作中心",
+      "en": "Line",
+      "yn": "Chuyền"
+    },
+    "dataGridView1|主工单号": {
+      "ui_code": "dataGridView1",
+      "ui_id": "主工单号",
+      "ui_tittle": "Group_Bottom_Inventory_Report",
+      "cn": "主工单号",
+      "en": "Main Production",
+      "yn": "Đơn công chính"
+    },
+    "dataGridView1|销售订单": {
+      "ui_code": "dataGridView1",
+      "ui_id": "销售订单",
+      "ui_tittle": "Group_Bottom_Inventory_Report",
+      "cn": "销售订单",
+      "en": "SO",
+      "yn": "SO"
+    },
+    "dataGridView1|PO": {
+      "ui_code": "dataGridView1",
+      "ui_id": "PO",
+      "ui_tittle": "Group_Bottom_Inventory_Report",
+      "cn": "PO",
+      "en": "PO",
+      "yn": "PO"
+    },
+    "dataGridView1|ART_NO": {
+      "ui_code": "dataGridView1",
+      "ui_id": "ART_NO",
+      "ui_tittle": "Group_Bottom_Inventory_Report",
+      "cn": "ART_NO",
+      "en": "ART_NO",
+      "yn": "ART_NO"
+    },
+    "dataGridView1|鞋型名称": {
+      "ui_code": "dataGridView1",
+      "ui_id": "鞋型名称",
+      "ui_tittle": "Group_Bottom_Inventory_Report",
+      "cn": "鞋型名称",
+      "en": "Shoe Style Name",
+      "yn": "Tên kiểu giày"
+    },
+    "dataGridView1|楦头编号": {
+      "ui_code": "dataGridView1",
+      "ui_id": "楦头编号",
+      "ui_tittle": "Group_Bottom_Inventory_Report",
+      "cn": "楦头编号",
+      "en": "Last No",
+      "yn": "Mã khuôn giày"
+    },
+    "dataGridView1|计划生产日期": {
+      "ui_code": "dataGridView1",
+      "ui_id": "计划生产日期",
+      "ui_tittle": "Group_Bottom_Inventory_Report",
+      "cn": "计划生产日期",
+      "en": "Planned Production Date",
+      "yn": "Ngày sản xuất kế hoạch"
+    },
+    "dataGridView1|尺码": {
+      "ui_code": "dataGridView1",
+      "ui_id": "尺码",
+      "ui_tittle": "Group_Bottom_Inventory_Report",
+      "cn": "尺码",
+      "en": "Size",
+      "yn": "Size"
+    },
+    "dataGridView1|尺码生产数": {
+      "ui_code": "dataGridView1",
+      "ui_id": "尺码生产数",
+      "ui_tittle": "Group_Bottom_Inventory_Report",
+      "cn": "尺码生产数",
+      "en": "Work Order Production Qty",
+      "yn": "SL sản xuất theo size"
+    },
+    "dataGridView1|工单生产数": {
+      "ui_code": "dataGridView1",
+      "ui_id": "工单生产数",
+      "ui_tittle": "Group_Bottom_Inventory_Report",
+      "cn": "工单生产数",
+      "en": "Upper Inventory Qty",
+      "yn": "SL SX theo đơn phụ"
+    },
+    "dataGridView1|鞋面库存数": {
+      "ui_code": "dataGridView1",
+      "ui_id": "鞋面库存数",
+      "ui_tittle": "Group_Bottom_Inventory_Report",
+      "cn": "鞋面库存数",
+      "en": "Upper Inventory Qty",
+      "yn": "Tồn kho mặt giày"
+    },
+    "dataGridView1|底库存数": {
+      "ui_code": "dataGridView1",
+      "ui_id": "底库存数",
+      "ui_tittle": "Group_Bottom_Inventory_Report",
+      "cn": "底库存数",
+      "en": "Sole Inventory Quantity",
+      "yn": "Tồn kho đế giày"
+    },
+    "dataGridView1|加工产出数": {
+      "ui_code": "dataGridView1",
+      "ui_id": "加工产出数",
+      "ui_tittle": "Group_Bottom_Inventory_Report",
+      "cn": "加工产出数",
+      "en": "Processed Output Qty",
+      "yn": "SL đã gia công"
+    },
+    "dataGridView1|加工未产出数": {
+      "ui_code": "dataGridView1",
+      "ui_id": "加工未产出数",
+      "ui_tittle": "Group_Bottom_Inventory_Report",
+      "cn": "加工未产出数",
+      "en": "Unprocessed Qty",
+      "yn": "SL chưa gia công"
+    },
+    "button2|button2": {
+      "ui_code": "button2",
+      "ui_id": "button2",
+      "ui_tittle": "Group_Bottom_Inventory_Report",
+      "cn": "导出",
+      "en": "Export",
+      "yn": "Xuất dữ liệu"
+    },
+    "button1|button1": {
+      "ui_code": "button1",
+      "ui_id": "button1",
+      "ui_tittle": "Group_Bottom_Inventory_Report",
+      "cn": "查询",
+      "en": "Search",
+      "yn": "Tìm kiếm"
+    },
+    "label5|label5": {
+      "ui_code": "label5",
+      "ui_id": "label5",
+      "ui_tittle": "Group_Bottom_Inventory_Report",
+      "cn": "ART.NO",
+      "en": "ART.NO",
+      "yn": "ART.NO"
+    },
+    "label4|label4": {
+      "ui_code": "label4",
+      "ui_id": "label4",
+      "ui_tittle": "Group_Bottom_Inventory_Report",
+      "cn": "主工单号",
+      "en": "Line",
+      "yn": "Chuyền"
+    },
+    "label3|label3": {
+      "ui_code": "label3",
+      "ui_id": "label3",
+      "ui_tittle": "Group_Bottom_Inventory_Report",
+      "cn": "销售订单",
+      "en": "SO",
+      "yn": "SO"
+    },
+    "label2|label2": {
+      "ui_code": "label2",
+      "ui_id": "label2",
+      "ui_tittle": "Group_Bottom_Inventory_Report",
+      "cn": "工作中心*",
+      "en": "Line",
+      "yn": "Chuyền"
+    },
+    "label1|label1": {
+      "ui_code": "label1",
+      "ui_id": "label1",
+      "ui_tittle": "Group_Bottom_Inventory_Report",
+      "cn": "工厂*",
+      "en": "factory*",
+      "yn": "Nhà máy*"
+    }
+  }
+}

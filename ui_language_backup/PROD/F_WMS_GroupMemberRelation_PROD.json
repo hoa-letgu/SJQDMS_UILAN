@@ -1,0 +1,423 @@
+{
+  "ui_tittle": "F_WMS_GroupMemberRelation",
+  "database": "PROD",
+  "exported_at": "2026-01-12T06:08:55.644Z",
+  "data": {
+    "btnProductionManagerAdd|btnProductionManagerAdd": {
+      "ui_code": "btnProductionManagerAdd",
+      "ui_id": "btnProductionManagerAdd",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "新增人员",
+      "en": "Add employee",
+      "yn": "Thêm nhân viên"
+    },
+    "F_WMS_GroupMemberRelation|F_WMS_GroupMemberRelation": {
+      "ui_code": "F_WMS_GroupMemberRelation",
+      "ui_id": "F_WMS_GroupMemberRelation",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "加工组别与配套排单人员关系对应",
+      "en": "Processing group & scheduler relationship mapping",
+      "yn": "Quan hệ giữa nhóm gia công và nhân viên lập kế hoạch"
+    },
+    "tabPage1|tabPage1": {
+      "ui_code": "tabPage1",
+      "ui_id": "tabPage1",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "查询",
+      "en": "Search",
+      "yn": "Tìm kiếm"
+    },
+    "dgvPersonInfo|Column14": {
+      "ui_code": "dgvPersonInfo",
+      "ui_id": "Column14",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "员工类型",
+      "en": "Employee type",
+      "yn": "Loại nhân viên"
+    },
+    "dgvPersonInfo|dataGridViewTextBoxColumn25": {
+      "ui_code": "dgvPersonInfo",
+      "ui_id": "dataGridViewTextBoxColumn25",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "员工条码",
+      "en": "Employee barcode",
+      "yn": "Mã vạch nhân viên"
+    },
+    "dgvPersonInfo|dataGridViewTextBoxColumn26": {
+      "ui_code": "dgvPersonInfo",
+      "ui_id": "dataGridViewTextBoxColumn26",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "员工姓名",
+      "en": "Employee name",
+      "yn": "Tên nhân viên"
+    },
+    "dgvPersonInfo|dataGridViewTextBoxColumn27": {
+      "ui_code": "dgvPersonInfo",
+      "ui_id": "dataGridViewTextBoxColumn27",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "员工电话",
+      "en": "Employee phone",
+      "yn": "Số điện thoại nhân viên"
+    },
+    "dgvPersonInfo|Column16": {
+      "ui_code": "dgvPersonInfo",
+      "ui_id": "Column16",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "状态",
+      "en": "Status",
+      "yn": "Trạng thái"
+    },
+    "dgvOrgFactory|Column10": {
+      "ui_code": "dgvOrgFactory",
+      "ui_id": "Column10",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "工厂代码",
+      "en": "Factory code",
+      "yn": "Mã nhà máy"
+    },
+    "dgvOrgFactory|Column11": {
+      "ui_code": "dgvOrgFactory",
+      "ui_id": "Column11",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "厂区代码",
+      "en": "Plant area code",
+      "yn": "Mã khu xưởng"
+    },
+    "dgvOrgFactory|Column12": {
+      "ui_code": "dgvOrgFactory",
+      "ui_id": "Column12",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "工作中心",
+      "en": "Work center",
+      "yn": "Trung tâm làm việc"
+    },
+    "btnClearCondition|btnClearCondition": {
+      "ui_code": "btnClearCondition",
+      "ui_id": "btnClearCondition",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "清空条件",
+      "en": "Clear conditions",
+      "yn": "Xóa điều kiện"
+    },
+    "btnEnableOrDisable|btnEnableOrDisable": {
+      "ui_code": "btnEnableOrDisable",
+      "ui_id": "btnEnableOrDisable",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "启用/禁用",
+      "en": "Enable / Disable",
+      "yn": "Kích hoạt / Vô hiệu hóa"
+    },
+    "btnEdit|btnEdit": {
+      "ui_code": "btnEdit",
+      "ui_id": "btnEdit",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "编辑",
+      "en": "Edit",
+      "yn": "Chỉnh sửa"
+    },
+    "btnQuery|btnQuery": {
+      "ui_code": "btnQuery",
+      "ui_id": "btnQuery",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "查询",
+      "en": "Search",
+      "yn": "Tìm kiếm"
+    },
+    "label4|label4": {
+      "ui_code": "label4",
+      "ui_id": "label4",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "状态",
+      "en": "Status",
+      "yn": "Trạng thái"
+    },
+    "label2|label2": {
+      "ui_code": "label2",
+      "ui_id": "label2",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "工作中心",
+      "en": "Work center",
+      "yn": "Trung tâm làm việc"
+    },
+    "label1|label1": {
+      "ui_code": "label1",
+      "ui_id": "label1",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "厂别",
+      "en": "Plant type",
+      "yn": "Loại xưởng"
+    },
+    "label3|label3": {
+      "ui_code": "label3",
+      "ui_id": "label3",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "工厂",
+      "en": "Factory",
+      "yn": "Nhà máy"
+    },
+    "tabPage2|tabPage2": {
+      "ui_code": "tabPage2",
+      "ui_id": "tabPage2",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "新增组别与排单员对应关系",
+      "en": "Add group–scheduler relationship",
+      "yn": "Thêm quan hệ giữa nhóm và nhân viên lập kế hoạch"
+    },
+    "dgvMaterialPreparer|dataGridViewTextBoxColumn7": {
+      "ui_code": "dgvMaterialPreparer",
+      "ui_id": "dataGridViewTextBoxColumn7",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "备料员条码",
+      "en": "Material preparer barcode",
+      "yn": "Mã vạch nhân viên chuẩn bị vật liệu"
+    },
+    "dgvMaterialPreparer|dataGridViewTextBoxColumn8": {
+      "ui_code": "dgvMaterialPreparer",
+      "ui_id": "dataGridViewTextBoxColumn8",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "备料员姓名",
+      "en": "Material preparer name",
+      "yn": "Tên nhân viên chuẩn bị vật liệu"
+    },
+    "dgvMaterialPreparer|dataGridViewTextBoxColumn9": {
+      "ui_code": "dgvMaterialPreparer",
+      "ui_id": "dataGridViewTextBoxColumn9",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "备料员电话",
+      "en": "Material preparer phone",
+      "yn": "Số điện thoại nhân viên chuẩn bị vật liệu"
+    },
+    "dgvMaterialPreparer|dataGridViewCheckBoxColumn3": {
+      "ui_code": "dgvMaterialPreparer",
+      "ui_id": "dataGridViewCheckBoxColumn3",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "启用",
+      "en": "Enable",
+      "yn": "Kích hoạt"
+    },
+    "btnMaterialPreparerDel|btnMaterialPreparerDel": {
+      "ui_code": "btnMaterialPreparerDel",
+      "ui_id": "btnMaterialPreparerDel",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "删除人员",
+      "en": "Delete employee",
+      "yn": "Xóa nhân viên"
+    },
+    "btnMaterialPreparerAdd|btnMaterialPreparerAdd": {
+      "ui_code": "btnMaterialPreparerAdd",
+      "ui_id": "btnMaterialPreparerAdd",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "新增人员",
+      "en": "Add employee",
+      "yn": "Thêm nhân viên"
+    },
+    "label11|label11": {
+      "ui_code": "label11",
+      "ui_id": "label11",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "备料员资料维护",
+      "en": "Material preparer data maintenance",
+      "yn": "Quản lý thông tin nhân viên chuẩn bị vật liệu"
+    },
+    "dgvArranger|dataGridViewTextBoxColumn4": {
+      "ui_code": "dgvArranger",
+      "ui_id": "dataGridViewTextBoxColumn4",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "生管排单员条码",
+      "en": "Production scheduler barcode",
+      "yn": "Mã vạch nhân viên lập kế hoạch sản xuất"
+    },
+    "dgvArranger|dataGridViewTextBoxColumn5": {
+      "ui_code": "dgvArranger",
+      "ui_id": "dataGridViewTextBoxColumn5",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "生管排单员姓名",
+      "en": "Production scheduler name",
+      "yn": "Tên nhân viên lập kế hoạch sản xuất"
+    },
+    "dgvArranger|dataGridViewTextBoxColumn6": {
+      "ui_code": "dgvArranger",
+      "ui_id": "dataGridViewTextBoxColumn6",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "生管排单员电话",
+      "en": "Production scheduler phone",
+      "yn": "Số điện thoại nhân viên lập kế hoạch sản xuất"
+    },
+    "dgvArranger|dataGridViewCheckBoxColumn2": {
+      "ui_code": "dgvArranger",
+      "ui_id": "dataGridViewCheckBoxColumn2",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "启用",
+      "en": "Enable",
+      "yn": "Kích hoạt"
+    },
+    "btnArrangerDel|btnArrangerDel": {
+      "ui_code": "btnArrangerDel",
+      "ui_id": "btnArrangerDel",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "删除人员",
+      "en": "Delete employee",
+      "yn": "Xóa nhân viên"
+    },
+    "btnArrangerAdd|btnArrangerAdd": {
+      "ui_code": "btnArrangerAdd",
+      "ui_id": "btnArrangerAdd",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "新增人员",
+      "en": "Add employee",
+      "yn": "Thêm nhân viên"
+    },
+    "label10|label10": {
+      "ui_code": "label10",
+      "ui_id": "label10",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "生管排单员资料维护",
+      "en": "Production scheduler data maintenance",
+      "yn": "Quản lý thông tin nhân viên lập kế hoạch sản xuất"
+    },
+    "dgvProductionManager|dataGridViewTextBoxColumn1": {
+      "ui_code": "dgvProductionManager",
+      "ui_id": "dataGridViewTextBoxColumn1",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "车间生管条码",
+      "en": "Workshop production control barcode",
+      "yn": "Mã vạch nhân viên quản lý sản xuất xưởng"
+    },
+    "dgvProductionManager|dataGridViewTextBoxColumn2": {
+      "ui_code": "dgvProductionManager",
+      "ui_id": "dataGridViewTextBoxColumn2",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "车间生管姓名",
+      "en": "Workshop production control name",
+      "yn": "Tên nhân viên quản lý sản xuất xưởng"
+    },
+    "dgvProductionManager|dataGridViewTextBoxColumn3": {
+      "ui_code": "dgvProductionManager",
+      "ui_id": "dataGridViewTextBoxColumn3",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "车间生管电话",
+      "en": "Workshop production control phone",
+      "yn": "Số điện thoại nhân viên quản lý sản xuất xưởng"
+    },
+    "dgvProductionManager|dataGridViewCheckBoxColumn1": {
+      "ui_code": "dgvProductionManager",
+      "ui_id": "dataGridViewCheckBoxColumn1",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "启用",
+      "en": "Enable",
+      "yn": "Kích hoạt"
+    },
+    "btnProductionManagerDel|btnProductionManagerDel": {
+      "ui_code": "btnProductionManagerDel",
+      "ui_id": "btnProductionManagerDel",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "删除人员",
+      "en": "Delete employee",
+      "yn": "Xóa nhân viên"
+    },
+    "label9|label9": {
+      "ui_code": "label9",
+      "ui_id": "label9",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "车间生管股长资料维护",
+      "en": "Workshop production control leader data maintenance",
+      "yn": "Quản lý thông tin trưởng nhóm quản lý sản xuất xưởng"
+    },
+    "dgvMinister|Column1": {
+      "ui_code": "dgvMinister",
+      "ui_id": "Column1",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "生管部长条码",
+      "en": "Production control manager barcode",
+      "yn": "Mã vạch trưởng phòng quản lý sản xuất"
+    },
+    "dgvMinister|Column2": {
+      "ui_code": "dgvMinister",
+      "ui_id": "Column2",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "生管部长姓名",
+      "en": "Production control manager name",
+      "yn": "Tên trưởng phòng quản lý sản xuất"
+    },
+    "dgvMinister|Column3": {
+      "ui_code": "dgvMinister",
+      "ui_id": "Column3",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "生管部长电话",
+      "en": "Production control manager phone",
+      "yn": "Số điện thoại trưởng phòng quản lý sản xuất"
+    },
+    "dgvMinister|Column4": {
+      "ui_code": "dgvMinister",
+      "ui_id": "Column4",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "启用",
+      "en": "Enable",
+      "yn": "Kích hoạt"
+    },
+    "btnMinisterDel|btnMinisterDel": {
+      "ui_code": "btnMinisterDel",
+      "ui_id": "btnMinisterDel",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "删除人员",
+      "en": "Delete employee",
+      "yn": "Xóa nhân viên"
+    },
+    "btnMinisterAdd|btnMinisterAdd": {
+      "ui_code": "btnMinisterAdd",
+      "ui_id": "btnMinisterAdd",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "新增人员",
+      "en": "Add employee",
+      "yn": "Thêm nhân viên"
+    },
+    "label5|label5": {
+      "ui_code": "label5",
+      "ui_id": "label5",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "生管部长资料维护",
+      "en": "Production control manager data maintenance",
+      "yn": "Quản lý thông tin trưởng phòng quản lý sản xuất"
+    },
+    "btnAdd|btnAdd": {
+      "ui_code": "btnAdd",
+      "ui_id": "btnAdd",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "新增",
+      "en": "Add",
+      "yn": "Thêm mới"
+    },
+    "btnSave|btnSave": {
+      "ui_code": "btnSave",
+      "ui_id": "btnSave",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "保存",
+      "en": "Save",
+      "yn": "Lưu"
+    },
+    "label6|label6": {
+      "ui_code": "label6",
+      "ui_id": "label6",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "工作中心",
+      "en": "Work center",
+      "yn": "Trung tâm làm việc"
+    },
+    "label7|label7": {
+      "ui_code": "label7",
+      "ui_id": "label7",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "厂别",
+      "en": "Plant type",
+      "yn": "Loại xưởng"
+    },
+    "label8|label8": {
+      "ui_code": "label8",
+      "ui_id": "label8",
+      "ui_tittle": "F_WMS_GroupMemberRelation",
+      "cn": "工厂",
+      "en": "Factory",
+      "yn": "Nhà máy"
+    }
+  }
+}
